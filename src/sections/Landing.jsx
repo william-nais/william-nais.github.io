@@ -81,13 +81,15 @@ const Landing = () => {
             </ul>
         </nav> */}
 
-      <div style={{ width: "30vw", textAlign: "justify", display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center" }}>
-        <p>
-          “I believe I would make an excellent House Captain due to my leadership experience. I served as House Captain for 4 consecutive years at Nord Anglia International School (DCIS) in Singapore, leading the Ubin house through various events such as the basketball challenge and swimming gala, while also working to enhance the value of house points. You can read more about these achievements on my website: https://william.nais.fun. Additionally, as a Student Council member and part of the Digital Culture & Learning Committee for 2 years, I supported a school-wide software transition by creating tutorials and live demonstrations.
-        </p>
-        <p>
-          Furthermore, I am committed to dedicating my energy, enthusiasm, and dedication to enriching the school community. I aspire to inspire house spirit and make our house a source of pride for everyone.”
-        </p>
+      <div style={{ display: "flex", flexDirection: "column", justifyContent: "center", alignItems: "center", margin: "0 auto" }}>
+        <div style={{ width: "40vw", textAlign: "justify" }}>
+          <p>
+            “I believe I would make an excellent House Captain due to my leadership experience. I served as House Captain for 4 consecutive years at Nord Anglia International School (DCIS) in Singapore, leading the Ubin house through various events such as the basketball challenge and swimming gala, while also working to enhance the value of house points. You can read more about these achievements on my website: https://william.nais.fun. Additionally, as a Student Council member and part of the Digital Culture & Learning Committee for 2 years, I supported a school-wide software transition by creating tutorials and live demonstrations.
+          </p>
+          <p>
+            Furthermore, I am committed to dedicating my energy, enthusiasm, and dedication to enriching the school community. I aspire to inspire house spirit and make our house a source of pride for everyone.”
+          </p>
+        </div>
       </div>
 
         <div className='reasons reason-1'>
